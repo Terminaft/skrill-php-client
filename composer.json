@@ -9,7 +9,7 @@
         "ext-json": "*",
         "ext-SimpleXML": "*",
         "ext-filter": "*",
-        "guzzlehttp/guzzle": ">=6.5.5",
+        "guzzlehttp/guzzle": "^7.0.1",
         "moneyphp/money": "^3.2"
     },
     "require-dev": {
